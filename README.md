@@ -231,18 +231,20 @@ A web application designed to simplify financial tracking and provide better vis
 
 # 🤝 Let's Connect
 
+# 🤝 Let's Connect
+
 <p align="center">
 
 <a href="https://github.com/Naveenkumar291205">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/naveen-kumar-m-36793a305/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://naveenkumarportfolio03.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </p>
@@ -251,6 +253,8 @@ A web application designed to simplify financial tracking and provide better vis
 
 <p align="center">
 
-### `BUILD • LEARN • CREATE • SHIP`
+### `BUILD • LEARN • SHIP • REPEAT`
+
+<sub>Turning ideas into digital products.</sub>
 
 </p>
