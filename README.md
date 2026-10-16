@@ -3,6 +3,11 @@
   Keep project descriptions aligned with the current repository state.
 -->
 
+<!-- Animated header -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=180&section=header&text=Naveen%20Kumar%20M&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Animated blue wave header" />
+</div>
+
 <div align="center">
 
 # Hi, I'm Naveen Kumar M
@@ -159,4 +164,9 @@ I aim to write maintainable code, build clear interfaces, validate behavior, and
 
 **BUILD · LEARN · IMPROVE · SHIP**
 
+</div>
+
+<!-- Animated footer -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=100&section=footer" alt="Blue wave footer" />
 </div>
