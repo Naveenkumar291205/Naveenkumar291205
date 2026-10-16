@@ -32,7 +32,11 @@ Building practical web applications, thoughtful user experiences, and digital pr
 
 </div>
 
+<br />
+
 ---
+
+<br />
 
 ## About Me
 
@@ -51,11 +55,15 @@ I like building projects that solve practical problems, learning how application
 
 ---
 
+<br />
+
 ## Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,c,react,vite,tailwind,html,css,flask,fastapi,mysql,sqlite,git,github,docker,postman,vscode" alt="Technologies: Python, Java, JavaScript, C, React, Vite, Tailwind, HTML, CSS, Flask, FastAPI, MySQL, SQLite, Git, GitHub, Docker, Postman, VS Code" />
 </p>
+
+<br />
 
 | Area | Tools and technologies |
 |---|---|
@@ -66,6 +74,8 @@ I like building projects that solve practical problems, learning how application
 | Developer tools | Git, GitHub, Docker, Postman, VS Code |
 
 ---
+
+<br />
 
 ## Featured Projects
 
@@ -83,6 +93,8 @@ A student-focused placement dashboard designed to bring placement preparation an
 
 [View repository →](https://github.com/Naveenkumar291205/AIT-Placement-Management)
 
+<br />
+
 ### ⚡ ZypherZone
 
 A digital-services platform concept focused on connecting businesses with development and design services, with project enquiry and cost-estimation workflows.
@@ -96,6 +108,8 @@ A digital-services platform concept focused on connecting businesses with develo
 **Stack:** React · TypeScript · Vite · Tailwind CSS · Supabase · MongoDB
 
 [View repository →](https://github.com/Naveenkumar291205/ZypherZone)
+
+<br />
 
 ### 💰 Financial Management System
 
@@ -113,6 +127,8 @@ A React dashboard prototype for recording income and expenses and visualizing fi
 
 [View repository →](https://github.com/Naveenkumar291205/financial-management)
 
+<br />
+
 ### 🧩 TaskFlow — Collaborative Task Management
 
 A task-management project exploring team workflows, task assignment, and centralized work tracking.
@@ -122,6 +138,8 @@ A task-management project exploring team workflows, task assignment, and central
 *The repository is currently private, so its source code is not publicly accessible.*
 
 ---
+
+<br />
 
 ## How I Approach Development
 
@@ -133,6 +151,8 @@ A task-management project exploring team workflows, task assignment, and central
 
 I aim to write maintainable code, build clear interfaces, validate behavior, and understand the trade-offs behind technical decisions.
 
+<br />
+
 ## Currently Learning
 
 - Backend architecture and API design
@@ -142,6 +162,8 @@ I aim to write maintainable code, build clear interfaces, validate behavior, and
 - Reliable, secure, and maintainable SaaS applications
 
 ---
+
+<br />
 
 ## GitHub Activity
 
@@ -153,6 +175,8 @@ I aim to write maintainable code, build clear interfaces, validate behavior, and
 </div>
 
 ---
+
+<br />
 
 ## Let's Connect
 
