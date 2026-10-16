@@ -60,20 +60,30 @@ I like building projects that solve practical problems, learning how application
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,react,vite,tailwind,html,css,flask,fastapi,mysql,sqlite,git,github,docker,postman,vscode" alt="Technologies: Python, Java, JavaScript, C, React, Vite, Tailwind, HTML, CSS, Flask, FastAPI, MySQL, SQLite, Git, GitHub, Docker, Postman, VS Code" />
+  <strong>LANGUAGES</strong><br />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,c&perline=4" alt="Python, Java, JavaScript, and C" />
 </p>
 
-<br />
+<p align="center">
+  <strong>FRONTEND</strong><br />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&perline=5" alt="React, Vite, Tailwind CSS, HTML, and CSS" />
+</p>
 
-| Area | Tools and technologies |
-|---|---|
-| Frontend | React, JavaScript, Vite, Tailwind CSS, HTML, CSS |
-| Backend | Python, Flask, FastAPI, REST APIs |
-| Database & ORM | MySQL, SQLite, SQLAlchemy |
-| Authentication concepts | JWT, password hashing, authorization |
-| Developer tools | Git, GitHub, Docker, Postman, VS Code |
+<p align="center">
+  <strong>BACKEND & DATABASE</strong><br />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,mysql,sqlite&perline=4" alt="Flask, FastAPI, MySQL, and SQLite" />
+</p>
 
----
+<p align="center">
+  <strong>TOOLS & WORKFLOW</strong><br />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode&perline=5" alt="Git, GitHub, Docker, Postman, and VS Code" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20APIs-0e75b6?style=flat-square" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-0e75b6?style=flat-square" alt="SQLAlchemy" />
+  <img src="https://img.shields.io/badge/JWT%20Auth-0e75b6?style=flat-square" alt="JWT authentication" />
+</p>
 
 <br />
 
