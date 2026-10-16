@@ -1,260 +1,162 @@
-<p align="center">
+<!--
+  Profile README for Naveenkumar291205
+  Keep project descriptions aligned with the current repository state.
+-->
 
-# 🚀 Welcome to My Profile! I'm Naveen Kumar.M
+<div align="center">
 
+# Hi, I'm Naveen Kumar M
+
+### Full-Stack Developer · Python Developer · B.Tech IT Student
+
+Building practical web applications, thoughtful user experiences, and digital products.
+
+<p>
+  <a href="https://github.com/Naveenkumar291205">
+    <img src="https://img.shields.io/badge/GitHub-Naveenkumar291205-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/naveen-kumar-m-36793a305/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
+  <a href="https://naveenkumarportfolio03.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio website" />
+  </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+Engineer;AI+Builder;Tech+Entrepreneur;Building+Real-World+Digital+Products" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=0E75B6&center=true&vCenter=true&width=650&lines=Python+%26+Backend+Development;React+%26+Modern+Frontend;REST+APIs+%26+Database+Integration;Learning+by+Building+Real+Projects" alt="Developer focus: Python, backend, React, APIs, and databases" />
 
-<p align="center">
-
-<a href="https://github.com/Naveenkumar291205">
-<img src="https://img.shields.io/github/followers/Naveenkumar291205?style=flat-square&label=Followers&color=0e75b6" />
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=Naveenkumar291205&style=flat-square&label=Profile+Views&color=0e75b6" />
-
-</p>
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm **Naveen Kumar.M**, a **B.Tech Information Technology student and Full Stack Developer** passionate about building modern web applications and solving real-world problems through technology.
+I'm a **B.Tech Information Technology student** who enjoys turning ideas into useful software. I work across frontend and backend development, with a current focus on **Python, Flask, FastAPI, React, REST APIs, and SQL databases**.
 
-I work mainly with **Python, Flask, FastAPI, React, SQL and modern development tools**, while continuously exploring **AI, system design, cloud and SaaS development**.
+I like building projects that solve practical problems, learning how applications work end to end, and improving them through iteration.
 
-> **“Build something useful. Keep learning. Keep improving.”**
+- **Focus:** Full-stack web development and backend engineering
+- **Backend:** Python, Flask, FastAPI, REST APIs
+- **Frontend:** React, JavaScript, Vite, Tailwind CSS
+- **Data:** MySQL, SQLite, SQLAlchemy
+- **Tools:** Git, GitHub, Docker, Postman, VS Code
+- **Exploring:** AI-enabled applications, system design, cloud, and SaaS architecture
 
-```text
-🎓 B.Tech Information Technology
-💻 Full Stack Developer
-🐍 Python | Flask | FastAPI
-⚛️ React | Vite | Tailwind
-🗄️ MySQL | SQLite | SQLAlchemy
-🤖 AI Application Development
-🚀 Tech Entrepreneur
-```
+> Build useful things, understand the fundamentals, and keep improving.
 
 ---
 
-## 🚀 What I Do
+## Tech Stack
 
-| Area | Technologies |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,react,vite,tailwind,html,css,flask,fastapi,mysql,sqlite,git,github,docker,postman,vscode" alt="Technologies: Python, Java, JavaScript, C, React, Vite, Tailwind, HTML, CSS, Flask, FastAPI, MySQL, SQLite, Git, GitHub, Docker, Postman, VS Code" />
+</p>
+
+| Area | Tools and technologies |
 |---|---|
-| **Frontend** | React · Vite · Tailwind CSS |
-| **Backend** | Python · Flask · FastAPI |
-| **Database** | MySQL · SQLite · SQLAlchemy |
-| **Authentication** | JWT · Authorization · Security |
-| **AI** | AI APIs · AI Applications |
-| **DevOps** | Git · Docker · CI/CD |
-| **Development** | REST APIs · SaaS · Full Stack |
+| Frontend | React, JavaScript, Vite, Tailwind CSS, HTML, CSS |
+| Backend | Python, Flask, FastAPI, REST APIs |
+| Database & ORM | MySQL, SQLite, SQLAlchemy |
+| Authentication concepts | JWT, password hashing, authorization |
+| Developer tools | Git, GitHub, Docker, Postman, VS Code |
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Projects
 
-<p align="center">
+### 🎓 AIT Placement Management System
 
-<img src="https://skillicons.dev/icons?i=python,java,js,c,react,vite,tailwind,html,css,flask,fastapi,mysql,sqlite,git,github,docker,postman,vscode" />
+A student-focused placement dashboard designed to bring placement preparation and recruitment information into one interface.
 
-</p>
+**Highlights**
+- Placement overview and application tracking
+- Upcoming recruitment drives and calendar views
+- Student profile and placement preparation modules
+- Search, notifications, and reusable React components
 
----
+**Stack:** React 19 · JavaScript · Vite · CSS
 
-# 🔥 Featured Projects
+[View repository →](https://github.com/Naveenkumar291205/AIT-Placement-Management)
 
-### 🧩 TaskFlow
+### ⚡ ZypherZone
 
-**Collaborative Task Management SaaS**
+A digital-services platform concept focused on connecting businesses with development and design services, with project enquiry and cost-estimation workflows.
 
-A full-stack platform designed to help teams create, assign, organize and track work from a centralized workspace.
+**Highlights**
+- Service-focused website and project enquiry flow
+- Interactive project cost estimator
+- Responsive UI and reusable frontend components
+- Product, design, and delivery-oriented positioning
 
-**Tech Stack**
+**Stack:** React · TypeScript · Vite · Tailwind CSS · Supabase · MongoDB
 
-`React` `Vite` `Tailwind` `Flask` `MySQL` `SQLAlchemy` `JWT`
+[View repository →](https://github.com/Naveenkumar291205/ZypherZone)
 
-**Features**
+### 💰 Financial Management System
 
-- 🔐 Authentication & Authorization
-- 👥 Team Management
-- 📋 Task Management
-- 🎯 Task Assignment
-- 📊 Dashboard
-- 🔎 Search & Filtering
-- 🛡️ Role-Based Access
-- 🔌 REST API
+A React dashboard prototype for recording income and expenses and visualizing financial activity.
 
-[View Repository →](https://github.com/Naveenkumar291205/taskflow)
+**Highlights**
+- Add income and expense transactions
+- Summary calculations for income, expenses, and net profit
+- Transaction history
+- Pie and bar chart visualizations
 
----
+**Stack:** React · JavaScript · CSS · Recharts
 
-### 🎓 AIT Placement Management
+*Current scope: client-side prototype; transaction data is not persisted to a backend database.*
 
-**College Placement Management Platform**
+[View repository →](https://github.com/Naveenkumar291205/financial-management)
 
-A centralized platform designed to connect **students, placement officers and recruiters** while managing the complete placement workflow.
+### 🧩 TaskFlow — Collaborative Task Management
 
-```text
-Students
-   ↓
-Profiles
-   ↓
-Eligibility
-   ↓
-Placement Drives
-   ↓
-Applications
-   ↓
-Interview Rounds
-   ↓
-Selection
-   ↓
-Analytics
-```
+A task-management project exploring team workflows, task assignment, and centralized work tracking.
 
-**Advanced Features**
+**Stack:** React · Flask · SQL · SQLAlchemy · JWT
 
-`AI Resume Analyzer` · `Job Recommendation` · `Interview Scheduler`
-
-`Real-Time Notifications` · `QR Attendance` · `Recruiter Feedback`
-
-[View Repository →](https://github.com/Naveenkumar291205/AIT-Placement-Management)
+*The repository is currently private, so its source code is not publicly accessible.*
 
 ---
 
-### 🚀 Zyphor Zone
+## How I Approach Development
 
-**Technology • Products • Innovation**
+<div align="center">
 
-A technology initiative focused on building digital products, exploring modern technologies and solving real-world problems.
+**Understand → Plan → Build → Test → Improve → Ship**
 
-`AI` · `Web Development` · `SaaS` · `Product Development`
+</div>
 
-[View Repository →](https://github.com/Naveenkumar291205/ZypherZone)
+I aim to write maintainable code, build clear interfaces, validate behavior, and understand the trade-offs behind technical decisions.
 
----
+## Currently Learning
 
-### 🌱 AgriGrow
-
-**Smart Agriculture Platform**
-
-A technology-driven agriculture project focused on smart farming, resource management and data-driven agricultural solutions.
-
-`Smart Farming` · `AI` · `Data` · `Agriculture`
-
-[View Repository →](https://github.com/Naveenkumar291205/agri-grow)
+- Backend architecture and API design
+- System design fundamentals
+- AI-powered application patterns
+- Cloud deployment and DevOps workflows
+- Reliable, secure, and maintainable SaaS applications
 
 ---
 
-### 💰 Financial Management
+## GitHub Activity
 
-**Financial Tracking Platform**
-
-A web application designed to simplify financial tracking and provide better visibility into financial activities.
-
-[View Repository →](https://github.com/Naveenkumar291205/financial-management)
-
----
-
-# 🧠 How I Build
-
-<p align="center">
-
-`IDEA` → `DESIGN` → `CODE` → `API` → `DATABASE` → `TEST` → `DEPLOY` → `IMPROVE`
-
-</p>
-
-> **“Don't just write code. Build solutions that create value.”**
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Naveenkumar291205&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumar291205&layout=compact&hide_border=true&theme=transparent" alt="Most-used languages on GitHub" />
+  <br />
+  <img src="https://streak-stats.demolab.com?user=Naveenkumar291205&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+</div>
 
 ---
 
-# 🏆 Achievements
+## Let's Connect
 
-<p align="center">
+<div align="center">
 
-🥇 **1st Place — Project Expo**
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Naveenkumar291205)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naveen-kumar-m-36793a305/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white)](https://naveenkumarportfolio03.netlify.app/)
 
-🏆 **Hackathon & Technical Event Participation**
+**BUILD · LEARN · IMPROVE · SHIP**
 
-🚀 **Startup & Product Development**
-
-💻 **Full Stack Application Development**
-
-👨‍💻 **Technical Leadership**
-
-</p>
-
----
-
-# 🌱 Currently Exploring
-
-<p align="center">
-
-`System Design` · `AI Engineering` · `Cloud` · `DevOps` · `SaaS Architecture`
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Naveenkumar291205&show_icons=true&theme=transparent&hide_border=true&rank_icon=github&title_color=0e75b6&icon_color=0e75b6" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naveenkumar291205&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6" />
-
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Naveenkumar291205&theme=transparent&hide_border=true&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" />
-
-</p>
-
----
-
-# 💡 Developer Philosophy
-
-> **“Learn → Build → Break → Debug → Improve → Ship.”**
-
-> **“Every project is an opportunity to become a better developer.”**
-
----
-
-# 🤝 Let's Connect
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/Naveenkumar291205">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/naveen-kumar-m-36793a305/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://naveenkumarportfolio03.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### `BUILD • LEARN • SHIP • REPEAT`
-
-<sub>Turning ideas into digital products.</sub>
-
-</p>
+</div>
